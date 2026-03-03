@@ -1,0 +1,16 @@
+Django>=5.1,<5.2
+djangorestframework>=3.15
+django-cors-headers>=4.3
+django-filter>=24.0
+psycopg[binary]>=3.2
+celery>=5.4
+django-celery-beat>=2.6
+redis>=5.0
+gunicorn>=22.0
+pycryptodome>=3.20
+pyotp>=2.9
+qrcode[pil]>=7.4
+openpyxl>=3.1
+python-decouple>=3.8
+requests>=2.31
+dj-database-url>=2.1
