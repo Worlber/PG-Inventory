@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/ne0Vvp4.jpeg" alt="PG Inventory" width="200" style="border-radius: 12px;" />
+  <img src="https://cdn.visualgpt.io/visualgpt/prediction_image/gemini_watermark_remover/07a45285376047fb57f573f2e2952b8d.png" alt="PG Inventory" width="200" style="border-radius: 12px;" />
 </p>
 
 <h1 align="center">PG Inventory</h1>
